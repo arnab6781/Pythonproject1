@@ -35,7 +35,7 @@ if ans == "yes":
         speak.Speak("Sorry i think you are a imposter")
 else:
     speak.Speak("Ok sir! Good bye! Have a nice day")
-if ans == "yes" and Password == "arnabmaity":
+if ans == "y" and Password == "arnabmaity":
     print('Arnab\'s Contact details')
     print("Name: Arnab Maity\nPh no: 8348132802\nAddress: Bakshi, Bagnan, Howrah\nFather's Name: Bimal"
           "Maity\nMother's Name: Uma Maity\nAge=16")
